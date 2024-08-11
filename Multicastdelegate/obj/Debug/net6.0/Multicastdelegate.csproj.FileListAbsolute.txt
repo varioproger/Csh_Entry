@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\Multicastdelegate\bin\Debug\net6.0\Multicastdelegate.exe
+E:\c#\Csh_Entry\Multicastdelegate\bin\Debug\net6.0\Multicastdelegate.deps.json
+E:\c#\Csh_Entry\Multicastdelegate\bin\Debug\net6.0\Multicastdelegate.runtimeconfig.json
+E:\c#\Csh_Entry\Multicastdelegate\bin\Debug\net6.0\Multicastdelegate.dll
+E:\c#\Csh_Entry\Multicastdelegate\bin\Debug\net6.0\Multicastdelegate.pdb
+E:\c#\Csh_Entry\Multicastdelegate\obj\Debug\net6.0\Multicastdelegate.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\Multicastdelegate\obj\Debug\net6.0\Multicastdelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\Multicastdelegate\obj\Debug\net6.0\Multicastdelegate.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\Multicastdelegate\obj\Debug\net6.0\Multicastdelegate.AssemblyInfo.cs
+E:\c#\Csh_Entry\Multicastdelegate\obj\Debug\net6.0\Multicastdelegate.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\Multicastdelegate\obj\Debug\net6.0\Multicastdelegate.dll
+E:\c#\Csh_Entry\Multicastdelegate\obj\Debug\net6.0\refint\Multicastdelegate.dll
+E:\c#\Csh_Entry\Multicastdelegate\obj\Debug\net6.0\Multicastdelegate.pdb
+E:\c#\Csh_Entry\Multicastdelegate\obj\Debug\net6.0\Multicastdelegate.genruntimeconfig.cache
+E:\c#\Csh_Entry\Multicastdelegate\obj\Debug\net6.0\ref\Multicastdelegate.dll

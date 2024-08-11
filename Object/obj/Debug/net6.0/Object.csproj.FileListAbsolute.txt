@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\Object\bin\Debug\net6.0\Object.exe
+E:\c#\Csh_Entry\Object\bin\Debug\net6.0\Object.deps.json
+E:\c#\Csh_Entry\Object\bin\Debug\net6.0\Object.runtimeconfig.json
+E:\c#\Csh_Entry\Object\bin\Debug\net6.0\Object.dll
+E:\c#\Csh_Entry\Object\bin\Debug\net6.0\Object.pdb
+E:\c#\Csh_Entry\Object\obj\Debug\net6.0\Object.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\Object\obj\Debug\net6.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\Object\obj\Debug\net6.0\Object.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\Object\obj\Debug\net6.0\Object.AssemblyInfo.cs
+E:\c#\Csh_Entry\Object\obj\Debug\net6.0\Object.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\Object\obj\Debug\net6.0\Object.dll
+E:\c#\Csh_Entry\Object\obj\Debug\net6.0\refint\Object.dll
+E:\c#\Csh_Entry\Object\obj\Debug\net6.0\Object.pdb
+E:\c#\Csh_Entry\Object\obj\Debug\net6.0\Object.genruntimeconfig.cache
+E:\c#\Csh_Entry\Object\obj\Debug\net6.0\ref\Object.dll

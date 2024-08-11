@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\virtual\obj\Debug\net6.0\virtual.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\virtual\obj\Debug\net6.0\virtual.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\virtual\obj\Debug\net6.0\virtual.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\virtual\obj\Debug\net6.0\virtual.AssemblyInfo.cs
+E:\c#\Csh_Entry\virtual\obj\Debug\net6.0\virtual.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\virtual\bin\Debug\net6.0\virtual.exe
+E:\c#\Csh_Entry\virtual\bin\Debug\net6.0\virtual.deps.json
+E:\c#\Csh_Entry\virtual\bin\Debug\net6.0\virtual.runtimeconfig.json
+E:\c#\Csh_Entry\virtual\bin\Debug\net6.0\virtual.dll
+E:\c#\Csh_Entry\virtual\bin\Debug\net6.0\virtual.pdb
+E:\c#\Csh_Entry\virtual\obj\Debug\net6.0\virtual.dll
+E:\c#\Csh_Entry\virtual\obj\Debug\net6.0\refint\virtual.dll
+E:\c#\Csh_Entry\virtual\obj\Debug\net6.0\virtual.pdb
+E:\c#\Csh_Entry\virtual\obj\Debug\net6.0\virtual.genruntimeconfig.cache
+E:\c#\Csh_Entry\virtual\obj\Debug\net6.0\ref\virtual.dll

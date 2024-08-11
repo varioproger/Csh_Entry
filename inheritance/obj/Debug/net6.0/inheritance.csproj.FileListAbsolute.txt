@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\inheritance\bin\Debug\net6.0\inheritance.exe
+E:\c#\Csh_Entry\inheritance\bin\Debug\net6.0\inheritance.deps.json
+E:\c#\Csh_Entry\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+E:\c#\Csh_Entry\inheritance\bin\Debug\net6.0\inheritance.dll
+E:\c#\Csh_Entry\inheritance\bin\Debug\net6.0\inheritance.pdb
+E:\c#\Csh_Entry\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+E:\c#\Csh_Entry\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\inheritance\obj\Debug\net6.0\inheritance.dll
+E:\c#\Csh_Entry\inheritance\obj\Debug\net6.0\refint\inheritance.dll
+E:\c#\Csh_Entry\inheritance\obj\Debug\net6.0\inheritance.pdb
+E:\c#\Csh_Entry\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
+E:\c#\Csh_Entry\inheritance\obj\Debug\net6.0\ref\inheritance.dll

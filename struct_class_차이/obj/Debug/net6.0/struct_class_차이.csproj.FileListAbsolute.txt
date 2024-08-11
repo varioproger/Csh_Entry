@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\struct_class_차이\bin\Debug\net6.0\struct_class_차이.exe
+E:\c#\Csh_Entry\struct_class_차이\bin\Debug\net6.0\struct_class_차이.deps.json
+E:\c#\Csh_Entry\struct_class_차이\bin\Debug\net6.0\struct_class_차이.runtimeconfig.json
+E:\c#\Csh_Entry\struct_class_차이\bin\Debug\net6.0\struct_class_차이.dll
+E:\c#\Csh_Entry\struct_class_차이\bin\Debug\net6.0\struct_class_차이.pdb
+E:\c#\Csh_Entry\struct_class_차이\obj\Debug\net6.0\struct_class_차이.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\struct_class_차이\obj\Debug\net6.0\struct_class_차이.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\struct_class_차이\obj\Debug\net6.0\struct_class_차이.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\struct_class_차이\obj\Debug\net6.0\struct_class_차이.AssemblyInfo.cs
+E:\c#\Csh_Entry\struct_class_차이\obj\Debug\net6.0\struct_class_차이.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\struct_class_차이\obj\Debug\net6.0\struct_class_차이.dll
+E:\c#\Csh_Entry\struct_class_차이\obj\Debug\net6.0\refint\struct_class_차이.dll
+E:\c#\Csh_Entry\struct_class_차이\obj\Debug\net6.0\struct_class_차이.pdb
+E:\c#\Csh_Entry\struct_class_차이\obj\Debug\net6.0\struct_class_차이.genruntimeconfig.cache
+E:\c#\Csh_Entry\struct_class_차이\obj\Debug\net6.0\ref\struct_class_차이.dll

@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\partial\bin\Debug\net6.0\partial.exe
+E:\c#\Csh_Entry\partial\bin\Debug\net6.0\partial.deps.json
+E:\c#\Csh_Entry\partial\bin\Debug\net6.0\partial.runtimeconfig.json
+E:\c#\Csh_Entry\partial\bin\Debug\net6.0\partial.dll
+E:\c#\Csh_Entry\partial\bin\Debug\net6.0\partial.pdb
+E:\c#\Csh_Entry\partial\obj\Debug\net6.0\partial.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\partial\obj\Debug\net6.0\partial.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\partial\obj\Debug\net6.0\partial.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\partial\obj\Debug\net6.0\partial.AssemblyInfo.cs
+E:\c#\Csh_Entry\partial\obj\Debug\net6.0\partial.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\partial\obj\Debug\net6.0\partial.dll
+E:\c#\Csh_Entry\partial\obj\Debug\net6.0\refint\partial.dll
+E:\c#\Csh_Entry\partial\obj\Debug\net6.0\partial.pdb
+E:\c#\Csh_Entry\partial\obj\Debug\net6.0\partial.genruntimeconfig.cache
+E:\c#\Csh_Entry\partial\obj\Debug\net6.0\ref\partial.dll

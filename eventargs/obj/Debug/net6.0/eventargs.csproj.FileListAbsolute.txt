@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\eventargs\bin\Debug\net6.0\eventargs.exe
+E:\c#\Csh_Entry\eventargs\bin\Debug\net6.0\eventargs.deps.json
+E:\c#\Csh_Entry\eventargs\bin\Debug\net6.0\eventargs.runtimeconfig.json
+E:\c#\Csh_Entry\eventargs\bin\Debug\net6.0\eventargs.dll
+E:\c#\Csh_Entry\eventargs\bin\Debug\net6.0\eventargs.pdb
+E:\c#\Csh_Entry\eventargs\obj\Debug\net6.0\eventargs.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\eventargs\obj\Debug\net6.0\eventargs.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\eventargs\obj\Debug\net6.0\eventargs.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\eventargs\obj\Debug\net6.0\eventargs.AssemblyInfo.cs
+E:\c#\Csh_Entry\eventargs\obj\Debug\net6.0\eventargs.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\eventargs\obj\Debug\net6.0\eventargs.dll
+E:\c#\Csh_Entry\eventargs\obj\Debug\net6.0\refint\eventargs.dll
+E:\c#\Csh_Entry\eventargs\obj\Debug\net6.0\eventargs.pdb
+E:\c#\Csh_Entry\eventargs\obj\Debug\net6.0\eventargs.genruntimeconfig.cache
+E:\c#\Csh_Entry\eventargs\obj\Debug\net6.0\ref\eventargs.dll

@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\InterfaceDelegate\bin\Debug\net6.0\InterfaceDelegate.exe
+E:\c#\Csh_Entry\InterfaceDelegate\bin\Debug\net6.0\InterfaceDelegate.deps.json
+E:\c#\Csh_Entry\InterfaceDelegate\bin\Debug\net6.0\InterfaceDelegate.runtimeconfig.json
+E:\c#\Csh_Entry\InterfaceDelegate\bin\Debug\net6.0\InterfaceDelegate.dll
+E:\c#\Csh_Entry\InterfaceDelegate\bin\Debug\net6.0\InterfaceDelegate.pdb
+E:\c#\Csh_Entry\InterfaceDelegate\obj\Debug\net6.0\InterfaceDelegate.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\InterfaceDelegate\obj\Debug\net6.0\InterfaceDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\InterfaceDelegate\obj\Debug\net6.0\InterfaceDelegate.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\InterfaceDelegate\obj\Debug\net6.0\InterfaceDelegate.AssemblyInfo.cs
+E:\c#\Csh_Entry\InterfaceDelegate\obj\Debug\net6.0\InterfaceDelegate.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\InterfaceDelegate\obj\Debug\net6.0\InterfaceDelegate.dll
+E:\c#\Csh_Entry\InterfaceDelegate\obj\Debug\net6.0\refint\InterfaceDelegate.dll
+E:\c#\Csh_Entry\InterfaceDelegate\obj\Debug\net6.0\InterfaceDelegate.pdb
+E:\c#\Csh_Entry\InterfaceDelegate\obj\Debug\net6.0\InterfaceDelegate.genruntimeconfig.cache
+E:\c#\Csh_Entry\InterfaceDelegate\obj\Debug\net6.0\ref\InterfaceDelegate.dll

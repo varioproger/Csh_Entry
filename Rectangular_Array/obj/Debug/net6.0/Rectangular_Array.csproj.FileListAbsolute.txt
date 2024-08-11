@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\Rectangular_Array\bin\Debug\net6.0\Rectangular_Array.exe
+E:\c#\Csh_Entry\Rectangular_Array\bin\Debug\net6.0\Rectangular_Array.deps.json
+E:\c#\Csh_Entry\Rectangular_Array\bin\Debug\net6.0\Rectangular_Array.runtimeconfig.json
+E:\c#\Csh_Entry\Rectangular_Array\bin\Debug\net6.0\Rectangular_Array.dll
+E:\c#\Csh_Entry\Rectangular_Array\bin\Debug\net6.0\Rectangular_Array.pdb
+E:\c#\Csh_Entry\Rectangular_Array\obj\Debug\net6.0\Rectangular_Array.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\Rectangular_Array\obj\Debug\net6.0\Rectangular_Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\Rectangular_Array\obj\Debug\net6.0\Rectangular_Array.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\Rectangular_Array\obj\Debug\net6.0\Rectangular_Array.AssemblyInfo.cs
+E:\c#\Csh_Entry\Rectangular_Array\obj\Debug\net6.0\Rectangular_Array.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\Rectangular_Array\obj\Debug\net6.0\Rectangular_Array.dll
+E:\c#\Csh_Entry\Rectangular_Array\obj\Debug\net6.0\refint\Rectangular_Array.dll
+E:\c#\Csh_Entry\Rectangular_Array\obj\Debug\net6.0\Rectangular_Array.pdb
+E:\c#\Csh_Entry\Rectangular_Array\obj\Debug\net6.0\Rectangular_Array.genruntimeconfig.cache
+E:\c#\Csh_Entry\Rectangular_Array\obj\Debug\net6.0\ref\Rectangular_Array.dll

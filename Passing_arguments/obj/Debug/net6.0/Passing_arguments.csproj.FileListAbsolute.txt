@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\Passing_arguments\bin\Debug\net6.0\Passing_arguments.exe
+E:\c#\Csh_Entry\Passing_arguments\bin\Debug\net6.0\Passing_arguments.deps.json
+E:\c#\Csh_Entry\Passing_arguments\bin\Debug\net6.0\Passing_arguments.runtimeconfig.json
+E:\c#\Csh_Entry\Passing_arguments\bin\Debug\net6.0\Passing_arguments.dll
+E:\c#\Csh_Entry\Passing_arguments\bin\Debug\net6.0\Passing_arguments.pdb
+E:\c#\Csh_Entry\Passing_arguments\obj\Debug\net6.0\Passing_arguments.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\Passing_arguments\obj\Debug\net6.0\Passing_arguments.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\Passing_arguments\obj\Debug\net6.0\Passing_arguments.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\Passing_arguments\obj\Debug\net6.0\Passing_arguments.AssemblyInfo.cs
+E:\c#\Csh_Entry\Passing_arguments\obj\Debug\net6.0\Passing_arguments.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\Passing_arguments\obj\Debug\net6.0\Passing_arguments.dll
+E:\c#\Csh_Entry\Passing_arguments\obj\Debug\net6.0\refint\Passing_arguments.dll
+E:\c#\Csh_Entry\Passing_arguments\obj\Debug\net6.0\Passing_arguments.pdb
+E:\c#\Csh_Entry\Passing_arguments\obj\Debug\net6.0\Passing_arguments.genruntimeconfig.cache
+E:\c#\Csh_Entry\Passing_arguments\obj\Debug\net6.0\ref\Passing_arguments.dll

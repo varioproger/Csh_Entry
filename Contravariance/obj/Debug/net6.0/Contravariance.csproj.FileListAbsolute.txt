@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\Contravariance\bin\Debug\net6.0\Contravariance.exe
+E:\c#\Csh_Entry\Contravariance\bin\Debug\net6.0\Contravariance.deps.json
+E:\c#\Csh_Entry\Contravariance\bin\Debug\net6.0\Contravariance.runtimeconfig.json
+E:\c#\Csh_Entry\Contravariance\bin\Debug\net6.0\Contravariance.dll
+E:\c#\Csh_Entry\Contravariance\bin\Debug\net6.0\Contravariance.pdb
+E:\c#\Csh_Entry\Contravariance\obj\Debug\net6.0\Contravariance.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\Contravariance\obj\Debug\net6.0\Contravariance.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\Contravariance\obj\Debug\net6.0\Contravariance.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\Contravariance\obj\Debug\net6.0\Contravariance.AssemblyInfo.cs
+E:\c#\Csh_Entry\Contravariance\obj\Debug\net6.0\Contravariance.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\Contravariance\obj\Debug\net6.0\Contravariance.dll
+E:\c#\Csh_Entry\Contravariance\obj\Debug\net6.0\refint\Contravariance.dll
+E:\c#\Csh_Entry\Contravariance\obj\Debug\net6.0\Contravariance.pdb
+E:\c#\Csh_Entry\Contravariance\obj\Debug\net6.0\Contravariance.genruntimeconfig.cache
+E:\c#\Csh_Entry\Contravariance\obj\Debug\net6.0\ref\Contravariance.dll

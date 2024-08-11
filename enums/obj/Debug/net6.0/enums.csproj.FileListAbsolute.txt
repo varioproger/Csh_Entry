@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\enums\bin\Debug\net6.0\enums.exe
+E:\c#\Csh_Entry\enums\bin\Debug\net6.0\enums.deps.json
+E:\c#\Csh_Entry\enums\bin\Debug\net6.0\enums.runtimeconfig.json
+E:\c#\Csh_Entry\enums\bin\Debug\net6.0\enums.dll
+E:\c#\Csh_Entry\enums\bin\Debug\net6.0\enums.pdb
+E:\c#\Csh_Entry\enums\obj\Debug\net6.0\enums.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\enums\obj\Debug\net6.0\enums.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\enums\obj\Debug\net6.0\enums.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\enums\obj\Debug\net6.0\enums.AssemblyInfo.cs
+E:\c#\Csh_Entry\enums\obj\Debug\net6.0\enums.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\enums\obj\Debug\net6.0\enums.dll
+E:\c#\Csh_Entry\enums\obj\Debug\net6.0\refint\enums.dll
+E:\c#\Csh_Entry\enums\obj\Debug\net6.0\enums.pdb
+E:\c#\Csh_Entry\enums\obj\Debug\net6.0\enums.genruntimeconfig.cache
+E:\c#\Csh_Entry\enums\obj\Debug\net6.0\ref\enums.dll

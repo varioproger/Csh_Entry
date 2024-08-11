@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\Box_Unbox\bin\Debug\net6.0\Box_Unbox.exe
+E:\c#\Csh_Entry\Box_Unbox\bin\Debug\net6.0\Box_Unbox.deps.json
+E:\c#\Csh_Entry\Box_Unbox\bin\Debug\net6.0\Box_Unbox.runtimeconfig.json
+E:\c#\Csh_Entry\Box_Unbox\bin\Debug\net6.0\Box_Unbox.dll
+E:\c#\Csh_Entry\Box_Unbox\bin\Debug\net6.0\Box_Unbox.pdb
+E:\c#\Csh_Entry\Box_Unbox\obj\Debug\net6.0\Box_Unbox.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\Box_Unbox\obj\Debug\net6.0\Box_Unbox.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\Box_Unbox\obj\Debug\net6.0\Box_Unbox.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\Box_Unbox\obj\Debug\net6.0\Box_Unbox.AssemblyInfo.cs
+E:\c#\Csh_Entry\Box_Unbox\obj\Debug\net6.0\Box_Unbox.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\Box_Unbox\obj\Debug\net6.0\Box_Unbox.dll
+E:\c#\Csh_Entry\Box_Unbox\obj\Debug\net6.0\refint\Box_Unbox.dll
+E:\c#\Csh_Entry\Box_Unbox\obj\Debug\net6.0\Box_Unbox.pdb
+E:\c#\Csh_Entry\Box_Unbox\obj\Debug\net6.0\Box_Unbox.genruntimeconfig.cache
+E:\c#\Csh_Entry\Box_Unbox\obj\Debug\net6.0\ref\Box_Unbox.dll

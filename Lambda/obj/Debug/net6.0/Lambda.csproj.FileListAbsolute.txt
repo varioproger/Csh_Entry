@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\Lambda\bin\Debug\net6.0\Lambda.exe
+E:\c#\Csh_Entry\Lambda\bin\Debug\net6.0\Lambda.deps.json
+E:\c#\Csh_Entry\Lambda\bin\Debug\net6.0\Lambda.runtimeconfig.json
+E:\c#\Csh_Entry\Lambda\bin\Debug\net6.0\Lambda.dll
+E:\c#\Csh_Entry\Lambda\bin\Debug\net6.0\Lambda.pdb
+E:\c#\Csh_Entry\Lambda\obj\Debug\net6.0\Lambda.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+E:\c#\Csh_Entry\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\Lambda\obj\Debug\net6.0\Lambda.dll
+E:\c#\Csh_Entry\Lambda\obj\Debug\net6.0\refint\Lambda.dll
+E:\c#\Csh_Entry\Lambda\obj\Debug\net6.0\Lambda.pdb
+E:\c#\Csh_Entry\Lambda\obj\Debug\net6.0\Lambda.genruntimeconfig.cache
+E:\c#\Csh_Entry\Lambda\obj\Debug\net6.0\ref\Lambda.dll

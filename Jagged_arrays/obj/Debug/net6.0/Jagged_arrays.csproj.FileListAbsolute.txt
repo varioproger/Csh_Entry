@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\Jagged_arrays\obj\Debug\net6.0\Jagged_arrays.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\Jagged_arrays\obj\Debug\net6.0\Jagged_arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\Jagged_arrays\obj\Debug\net6.0\Jagged_arrays.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\Jagged_arrays\obj\Debug\net6.0\Jagged_arrays.AssemblyInfo.cs
+E:\c#\Csh_Entry\Jagged_arrays\obj\Debug\net6.0\Jagged_arrays.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\Jagged_arrays\bin\Debug\net6.0\Jagged_arrays.exe
+E:\c#\Csh_Entry\Jagged_arrays\bin\Debug\net6.0\Jagged_arrays.deps.json
+E:\c#\Csh_Entry\Jagged_arrays\bin\Debug\net6.0\Jagged_arrays.runtimeconfig.json
+E:\c#\Csh_Entry\Jagged_arrays\bin\Debug\net6.0\Jagged_arrays.dll
+E:\c#\Csh_Entry\Jagged_arrays\bin\Debug\net6.0\Jagged_arrays.pdb
+E:\c#\Csh_Entry\Jagged_arrays\obj\Debug\net6.0\Jagged_arrays.dll
+E:\c#\Csh_Entry\Jagged_arrays\obj\Debug\net6.0\refint\Jagged_arrays.dll
+E:\c#\Csh_Entry\Jagged_arrays\obj\Debug\net6.0\Jagged_arrays.pdb
+E:\c#\Csh_Entry\Jagged_arrays\obj\Debug\net6.0\Jagged_arrays.genruntimeconfig.cache
+E:\c#\Csh_Entry\Jagged_arrays\obj\Debug\net6.0\ref\Jagged_arrays.dll

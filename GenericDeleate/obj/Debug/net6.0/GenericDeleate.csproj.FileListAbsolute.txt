@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\GenericDeleate\bin\Debug\net6.0\GenericDeleate.exe
+E:\c#\Csh_Entry\GenericDeleate\bin\Debug\net6.0\GenericDeleate.deps.json
+E:\c#\Csh_Entry\GenericDeleate\bin\Debug\net6.0\GenericDeleate.runtimeconfig.json
+E:\c#\Csh_Entry\GenericDeleate\bin\Debug\net6.0\GenericDeleate.dll
+E:\c#\Csh_Entry\GenericDeleate\bin\Debug\net6.0\GenericDeleate.pdb
+E:\c#\Csh_Entry\GenericDeleate\obj\Debug\net6.0\GenericDeleate.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\GenericDeleate\obj\Debug\net6.0\GenericDeleate.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\GenericDeleate\obj\Debug\net6.0\GenericDeleate.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\GenericDeleate\obj\Debug\net6.0\GenericDeleate.AssemblyInfo.cs
+E:\c#\Csh_Entry\GenericDeleate\obj\Debug\net6.0\GenericDeleate.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\GenericDeleate\obj\Debug\net6.0\GenericDeleate.dll
+E:\c#\Csh_Entry\GenericDeleate\obj\Debug\net6.0\refint\GenericDeleate.dll
+E:\c#\Csh_Entry\GenericDeleate\obj\Debug\net6.0\GenericDeleate.pdb
+E:\c#\Csh_Entry\GenericDeleate\obj\Debug\net6.0\GenericDeleate.genruntimeconfig.cache
+E:\c#\Csh_Entry\GenericDeleate\obj\Debug\net6.0\ref\GenericDeleate.dll

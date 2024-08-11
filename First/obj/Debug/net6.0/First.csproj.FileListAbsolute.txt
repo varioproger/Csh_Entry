@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\First\bin\Debug\net6.0\First.exe
+E:\c#\Csh_Entry\First\bin\Debug\net6.0\First.deps.json
+E:\c#\Csh_Entry\First\bin\Debug\net6.0\First.runtimeconfig.json
+E:\c#\Csh_Entry\First\bin\Debug\net6.0\First.dll
+E:\c#\Csh_Entry\First\bin\Debug\net6.0\First.pdb
+E:\c#\Csh_Entry\First\obj\Debug\net6.0\First.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\First\obj\Debug\net6.0\First.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\First\obj\Debug\net6.0\First.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\First\obj\Debug\net6.0\First.AssemblyInfo.cs
+E:\c#\Csh_Entry\First\obj\Debug\net6.0\First.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\First\obj\Debug\net6.0\First.dll
+E:\c#\Csh_Entry\First\obj\Debug\net6.0\refint\First.dll
+E:\c#\Csh_Entry\First\obj\Debug\net6.0\First.pdb
+E:\c#\Csh_Entry\First\obj\Debug\net6.0\First.genruntimeconfig.cache
+E:\c#\Csh_Entry\First\obj\Debug\net6.0\ref\First.dll

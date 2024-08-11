@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\RealNumber\bin\Debug\net6.0\RealNumber.exe
+E:\c#\Csh_Entry\RealNumber\bin\Debug\net6.0\RealNumber.deps.json
+E:\c#\Csh_Entry\RealNumber\bin\Debug\net6.0\RealNumber.runtimeconfig.json
+E:\c#\Csh_Entry\RealNumber\bin\Debug\net6.0\RealNumber.dll
+E:\c#\Csh_Entry\RealNumber\bin\Debug\net6.0\RealNumber.pdb
+E:\c#\Csh_Entry\RealNumber\obj\Debug\net6.0\RealNumber.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\RealNumber\obj\Debug\net6.0\RealNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\RealNumber\obj\Debug\net6.0\RealNumber.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\RealNumber\obj\Debug\net6.0\RealNumber.AssemblyInfo.cs
+E:\c#\Csh_Entry\RealNumber\obj\Debug\net6.0\RealNumber.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\RealNumber\obj\Debug\net6.0\RealNumber.dll
+E:\c#\Csh_Entry\RealNumber\obj\Debug\net6.0\refint\RealNumber.dll
+E:\c#\Csh_Entry\RealNumber\obj\Debug\net6.0\RealNumber.pdb
+E:\c#\Csh_Entry\RealNumber\obj\Debug\net6.0\RealNumber.genruntimeconfig.cache
+E:\c#\Csh_Entry\RealNumber\obj\Debug\net6.0\ref\RealNumber.dll

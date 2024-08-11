@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\array\bin\Debug\net6.0\array.exe
+E:\c#\Csh_Entry\array\bin\Debug\net6.0\array.deps.json
+E:\c#\Csh_Entry\array\bin\Debug\net6.0\array.runtimeconfig.json
+E:\c#\Csh_Entry\array\bin\Debug\net6.0\array.dll
+E:\c#\Csh_Entry\array\bin\Debug\net6.0\array.pdb
+E:\c#\Csh_Entry\array\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+E:\c#\Csh_Entry\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\array\obj\Debug\net6.0\array.dll
+E:\c#\Csh_Entry\array\obj\Debug\net6.0\refint\array.dll
+E:\c#\Csh_Entry\array\obj\Debug\net6.0\array.pdb
+E:\c#\Csh_Entry\array\obj\Debug\net6.0\array.genruntimeconfig.cache
+E:\c#\Csh_Entry\array\obj\Debug\net6.0\ref\array.dll

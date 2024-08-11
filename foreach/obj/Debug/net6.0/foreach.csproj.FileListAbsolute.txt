@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\foreach\bin\Debug\net6.0\foreach.exe
+E:\c#\Csh_Entry\foreach\bin\Debug\net6.0\foreach.deps.json
+E:\c#\Csh_Entry\foreach\bin\Debug\net6.0\foreach.runtimeconfig.json
+E:\c#\Csh_Entry\foreach\bin\Debug\net6.0\foreach.dll
+E:\c#\Csh_Entry\foreach\bin\Debug\net6.0\foreach.pdb
+E:\c#\Csh_Entry\foreach\obj\Debug\net6.0\foreach.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\foreach\obj\Debug\net6.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\foreach\obj\Debug\net6.0\foreach.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\foreach\obj\Debug\net6.0\foreach.AssemblyInfo.cs
+E:\c#\Csh_Entry\foreach\obj\Debug\net6.0\foreach.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\foreach\obj\Debug\net6.0\foreach.dll
+E:\c#\Csh_Entry\foreach\obj\Debug\net6.0\refint\foreach.dll
+E:\c#\Csh_Entry\foreach\obj\Debug\net6.0\foreach.pdb
+E:\c#\Csh_Entry\foreach\obj\Debug\net6.0\foreach.genruntimeconfig.cache
+E:\c#\Csh_Entry\foreach\obj\Debug\net6.0\ref\foreach.dll

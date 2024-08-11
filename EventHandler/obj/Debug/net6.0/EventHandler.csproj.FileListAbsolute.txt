@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\EventHandler\obj\Debug\net6.0\EventHandler.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\EventHandler\obj\Debug\net6.0\EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\EventHandler\obj\Debug\net6.0\EventHandler.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\EventHandler\obj\Debug\net6.0\EventHandler.AssemblyInfo.cs
+E:\c#\Csh_Entry\EventHandler\obj\Debug\net6.0\EventHandler.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\EventHandler\bin\Debug\net6.0\EventHandler.exe
+E:\c#\Csh_Entry\EventHandler\bin\Debug\net6.0\EventHandler.deps.json
+E:\c#\Csh_Entry\EventHandler\bin\Debug\net6.0\EventHandler.runtimeconfig.json
+E:\c#\Csh_Entry\EventHandler\bin\Debug\net6.0\EventHandler.dll
+E:\c#\Csh_Entry\EventHandler\bin\Debug\net6.0\EventHandler.pdb
+E:\c#\Csh_Entry\EventHandler\obj\Debug\net6.0\EventHandler.dll
+E:\c#\Csh_Entry\EventHandler\obj\Debug\net6.0\refint\EventHandler.dll
+E:\c#\Csh_Entry\EventHandler\obj\Debug\net6.0\EventHandler.pdb
+E:\c#\Csh_Entry\EventHandler\obj\Debug\net6.0\EventHandler.genruntimeconfig.cache
+E:\c#\Csh_Entry\EventHandler\obj\Debug\net6.0\ref\EventHandler.dll

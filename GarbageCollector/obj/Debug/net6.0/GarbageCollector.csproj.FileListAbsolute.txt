@@ -1,0 +1,15 @@
+E:\c#\Csh_Entry\GarbageCollector\bin\Debug\net6.0\GarbageCollector.exe
+E:\c#\Csh_Entry\GarbageCollector\bin\Debug\net6.0\GarbageCollector.deps.json
+E:\c#\Csh_Entry\GarbageCollector\bin\Debug\net6.0\GarbageCollector.runtimeconfig.json
+E:\c#\Csh_Entry\GarbageCollector\bin\Debug\net6.0\GarbageCollector.dll
+E:\c#\Csh_Entry\GarbageCollector\bin\Debug\net6.0\GarbageCollector.pdb
+E:\c#\Csh_Entry\GarbageCollector\obj\Debug\net6.0\GarbageCollector.csproj.AssemblyReference.cache
+E:\c#\Csh_Entry\GarbageCollector\obj\Debug\net6.0\GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Csh_Entry\GarbageCollector\obj\Debug\net6.0\GarbageCollector.AssemblyInfoInputs.cache
+E:\c#\Csh_Entry\GarbageCollector\obj\Debug\net6.0\GarbageCollector.AssemblyInfo.cs
+E:\c#\Csh_Entry\GarbageCollector\obj\Debug\net6.0\GarbageCollector.csproj.CoreCompileInputs.cache
+E:\c#\Csh_Entry\GarbageCollector\obj\Debug\net6.0\GarbageCollector.dll
+E:\c#\Csh_Entry\GarbageCollector\obj\Debug\net6.0\refint\GarbageCollector.dll
+E:\c#\Csh_Entry\GarbageCollector\obj\Debug\net6.0\GarbageCollector.pdb
+E:\c#\Csh_Entry\GarbageCollector\obj\Debug\net6.0\GarbageCollector.genruntimeconfig.cache
+E:\c#\Csh_Entry\GarbageCollector\obj\Debug\net6.0\ref\GarbageCollector.dll
